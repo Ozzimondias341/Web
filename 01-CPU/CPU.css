@@ -4,7 +4,6 @@ body
     font-family:'Roboto Condensed';
     font-size:20px;
     padding:5%;
-    background-image:url('img/pcb.jpg');
 }
 p
 {
@@ -139,3 +138,17 @@ div ~ p
 }
 
 */
+
+.cite {
+    border: solid 8px;
+    margin: 50px 200px 300px;
+    /*margin: all sides*/
+    /*margin: top-bottom left-right*/
+    /*margin: top right bottom left*/
+    /*margin: top left-right bottom */
+    padding: 30px;
+    /*padding: all sides*/
+    /*padding: top-bottom left-right*/
+    /*padding: top right bottom left*/
+    /*padding: top left-right bottom */
+}
